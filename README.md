@@ -3,7 +3,7 @@
 
 Ideas based on [How to use a Raspberry PI as a Network Sensor](https://activecountermeasures.com/raspberry_pi_sensor/How%20to%20use%20a%20Raspberry%20Pi%20as%20a%20network%20sensor.pdf)
 
-Inspired by Bill Stearns How to use a Raspberry PI as a Network Sensor intial thoughts was that [RITA](https://github.com/activecm/rita) will not run on RPi Rasbian OS as it appears to need MongoDB 64bit. Going to attempt to try to run [Ubuntu 18.04 LTS](https://cdimage.ubuntu.com/releases/18.04/release/)
+Inspired by Bill Stearns How to use a Raspberry PI as a Network Sensor intial thoughts was that [RITA](https://github.com/activecm/rita) will not run on RPi Rasbian OS as it appears to need MongoDB 64bit. Going to attempt to try to run [Ubuntu 18.04 LTS](https://cdimage.ubuntu.com/releases/18.04/release/) RPi 4 Modle B 4GB.
 
 # Scope
 
