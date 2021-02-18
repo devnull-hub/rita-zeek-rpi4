@@ -650,4 +650,4 @@ Rolling:
 .......
 ```
 
-![](https://github.com/devnull-hub/rita-zeek-rpi4/blob/main/Hello.Rita.gif=250x250)
+![Alt text](https://github.com/devnull-hub/rita-zeek-rpi4/blob/main/Hello.Rita.gif=250x250)
