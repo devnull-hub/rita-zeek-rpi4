@@ -79,7 +79,7 @@ sudo apt-purge unattended-upgrades
 
 # Hostname
 
-`sudo hostnamectl set-hostname rpi05zeek`
+`sudo hostnamectl set-hostname urhostname`
 
 `sudo reboot now`
 
@@ -95,7 +95,7 @@ sudo apt-purge unattended-upgrades
 
 ## Install
 
-Install the `ifupdown` package and 
+Install the `ifupdown` package and `resolvconf`
 
 ```sh
 sudo apt-get update
