@@ -523,7 +523,7 @@ Might get error about unable to resolve host (none)”
 127.0.1.1    my-machine
 ```
 
-## 4. Fun the following command to interact with the database by using the command line.
+## 4. Run the following command to interact with the database by using the command line.
 
 `mongo`
 
